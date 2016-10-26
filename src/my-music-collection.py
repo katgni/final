@@ -9,7 +9,7 @@ from music import Music
 
 app = Flask(__name__)
 
-db_location = 'var/mydatabase.db'
+db_location = 'mydatabase.db'
 app.secret_key = settings.secret_key
 
 # database config
