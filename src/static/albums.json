@@ -1,0 +1,97 @@
+	[{
+    	"artist_name": "Avantasia",
+    	"album_name": "The Mystery Of Time",
+    	"date_of_release": "1991",
+		"description": "The Mystery Of Time is the sixth full-length album by Tobias Sammets rock opera project Avantasia. The album was released on 26 April 2013. This is the first Avantasia release to feature the German Film Orchestra Babelsberg (the same orchestra that performed on Edguys album Hellfire Club). The cover artwork was painted by Rodney Matthews. The Mystery Of Time scored high positions in several international music charts and even enabled Avantasia to enter the US Billboard charts for the very first time. When asked to compare the album to Avantasias previous efforts, guitarist and producer Sascha Paeth described it as follows:  It is a more fantastic production, based a little bit more on orchestra work and keyboards. Its more like a film score, to underline the whole story, the rock opera aspect, which was a choice on this one and I think it works out fine. Also, this gives the album a face of its own.",
+    	"img": "http://localhost:5000/static/img/8.jpg",
+    	"genre": "Power Metal",
+		"media_type": "CD"
+    }, {
+    	"artist_name": "Avantasia",
+    	"album_name": "Angel of Babylon",
+    	"date_of_release": "2010",
+		"description": "Angel of Babylon is the fifth full-length album by Tobias Sammet's rock opera project Avantasia, released on April 3, 2010, along with The Wicked Symphony. Angel Of Babylon was released both as part of a box set, with the two albums combined and as an individual album. It is the third and final part of The Wicked Trilogy.",
+    	"img": "http://localhost:5000/static/img/9.jpg",
+    	"genre": "Power Metal",
+		"media_type": "CD"
+    }, {
+    	"artist_name": "Black Sabbath",
+    	"album_name": "Reunion",
+    	"date_of_release": "1998",
+		"description": "Reunion is a live album by heavy metal band Black Sabbath. It features the original line-up of Ozzy Osbourne, Tony Iommi, Geezer Butler and Bill Ward, the first recording of the four musicians together after the firing of Osbourne in 1979. They had a couple of one-off reunions in 1985 and 1992, but never toured or recorded together. This line-up played sporadic dates until Ronnie James No Sacrifice No Victory is the seventh studio album by HammerFall and was released February 20, 2009. It was partly recorded in PAMA Studios in Torsås and partly at King Diamond guitarist, Andy La Rocques Sonic Train Studios in Varberg. This is the first album featuring the bands new lead guitarist Pontus Norgren, as well as the first to have the band tuning all of their guitars in all songs to D tuning as opposed to the E-flat tuning seen on all previous albums (the first song to use D tuning was the title track for the album, Glory to the Brave, but the songs, I Believe (also in Glory to the Brave) and the Fallen One (from Legacy of Kings) use the standard E tuning, Send Me a Sign from Infected and Tainted Metal from (r)Evolution uses D-flat tuning, and One More Time (from Infected uses C tuning). The album was certified gold in Sweden. The song My Sharona was also released as a single, the second single released from this album, and only has one track which has the same name as the song.",
+    	"img": "http://localhost:5000/static/img/b1.jpg",
+    	"genre": "Heavy Metal",
+		"media_type": "CD"
+    }, {
+    	"artist_name": "Hammerfall",
+    	"album_name": "No Sacrifice No Victory",
+    	"date_of_release": "2009",
+		"description": "No Sacrifice No Victory is the seventh studio album by HammerFall and was released February 20, 2009. It was partly recorded in PAMA Studios in Torsås and partly at King Diamond guitarist, Andy La Rocque's Sonic Train Studios in Varberg. This is the first album featuring the band's new lead guitarist Pontus Norgren, as well as the first to have the band tuning all of their guitars in all songs to D tuning as opposed to the E-flat tuning seen on all previous albums (the first song to use D tuning was the title track for the album, Glory to the Brave, but the songs, I Believe (also in Glory to the Brave) and the Fallen One (from Legacy of Kings) use the standard E tuning, Send Me a Sign from Infected and Tainted Metal from (r)Evolution uses D-flat tuning, and One More Time (from Infected uses C tuning). The album was certified gold in Sweden. The song My Sharona was also released as a single, the second single released from this album, and only has one track which has the same name as the song.",
+    	"img": "http://localhost:5000/static/img/10.jpg",
+    	"genre": "Power Metal",
+		"media_type": "CD"
+    }, {
+    	"artist_name": "Hammerfall",
+    	"album_name": "Infected",
+    	"date_of_release": "2011",
+		"description": "Infected is the eighth studio album by the band HammerFall and was released on May 20, 2011, in Europe and June 7 of that same year in North America. It was their first album produced by James Michael and the HammerFall guitarists Oscar Dronjak and Pontus Norgren. To promote the record, the song One More Time was released as the first official single on April 6, 2011. On April 8, 2011, Nuclear Blast Records released a limited edition picture 7 version of the single One More Time; the vinyl was limited to 500 copies. The album entered the Swedish charts at number two. The albums second single.",
+    	"img": "http://localhost:5000/static/img/3.jpg",
+    	"genre": "Power Metal",
+		"media_type": "CD"
+    }, {
+    	"artist_name": "Led Zeppelin",
+    	"album_name": "Physical Graffiti Deluxe Edition",
+    	"date_of_release": "2014",
+		"description": "Led Zeppelin Physical Graffiti Deluxe Edition is a series of albums reissued by English rock group Led Zeppelin, distributed by Atlantic Records. It contains the first six of the original Led Zeppelin studio albums digitally remastered and compressed, with the inclusion of previously unreleased tracks (released on the Deluxe Edition of Led Zeppelin II and Led Zeppelin III). Along with the remastered albums, there is a companion disc with each album, consisting of unreleased audio tracks and alternate mixes of released tracks (the first album consists of the 10 October 1969 concert in Paris). The albums were released in chronological order, with the first three albums, then the next two 4 months later. The first wave of albums released, Led Zeppelin, Led Zeppelin II, and Led Zeppelin III, were released on 2 June 2014. The second wave of albums, Led Zeppelin IV and Houses of the Holy, were released on 27 October 2014. The third wave of albums, Physical Graffiti, was released on 24 February 2015, 40 years to the day after the original release.",
+    	"img": "http://localhost:5000/static/img/11.jpg",
+    	"genre": "Hard Rock",
+		"media_type": "Vinyl"
+    }, {
+    	"artist_name": "Metallica",
+    	"album_name": "The Metallica Collection",
+    	"date_of_release": "2009",
+		"description": "The Metallica Collection is a digital box set by the American heavy metal band Metallica. It was released to the iTunes Store on April 14, 2009. The box set features all of the bands studio albums and extra material from 1983 to 2008. The box set was later released to other digital music stores such Amazon MP3 and UOL Megastor",
+    	"img": "http://localhost:5000/static/img/6.jpg",
+    	"genre": "Heavy Metal",
+		"media_type": "CD"
+    }, {
+    	"artist_name": "Nightwish",
+    	"album_name": "Dark Passion Play",
+    	"date_of_release": "2007",
+		"description": "Dark Passion Play is the sixth studio album by Finnish symphonic metal band Nightwish, released on 26 September, 2007 in Finland, 28 September in Europe and 2 October 2007 in the United States. It is the first album without original vocalist Tarja Turunen, who was dismissed in 2005, as well as the first album involving future member Troy Donockley on uilleann pipes and tin whistle. It is the first of only two albums with vocalist Anette Olzon, who was eventually dismissed in 2012 after the release of the bands subsequent album, Imaginaerum. Tuomas Holopainen has referred to it as the album that saved his life. The first single, Eva, was leaked on the Internet six days before its official release, prompting the band to release the single earlier to boost downloads. Several other versions of the song were posted on YouTube and torrent sites a month later; the entire album with record label voiceovers had been leaked on the Internet by 2 August. The full album (without voiceovers) was leaked on 21 September 2007, as a result of several stores in Mexico selling the retail album much prior to the worldwide release date. Pre-orders for Dark Passion Play had it certified gold in Finland before it had even been released. The album debuted at number one in 6 European countries, selling over 100,000 copies in Finland (triple platinum) alone. In February 2008, the album was certified quadruple-platinum in Finland, after having sold over 120,000 copies, which makes it one of the 40 best-selling albums of all time in the country. It has also sold 134,000 copies in the United States. Worldwide, Dark Passion Play has sold over 2 million copies since its release, being Nightwishs most successful album to date.",
+    	"img": "http://localhost:5000/static/img/b4.jpg",
+    	"genre": "Symphonic Metal",
+		"media_type": "CD"
+    }, {
+    	"artist_name": "Nightwish",
+    	"album_name": "Imaginearum",
+    	"date_of_release": "2012",
+		"description": "Imaginaerum is the seventh studio album by Finnish symphonic metal band Nightwish. According to Nightwish songwriter Tuomas Holopainen, the album is a concept album that tells the story of an old composer who is reminiscing of his youth on his deathbed. The album was produced alongside the movie of the same name, directed by Stobe Harju, who previously directed Nightwish's The Islander music video, and the album and the film share the same themes and general story. It is their second and last album with vocalist Anette Olzon. The first single off the album, Storytime was released on 9 November 2011 and quickly topped the Finnish single charts. According to Iltasanomat, Imaginaerum sold more than 50,000 copies in Finland during the first day after release. It has been described as Nightwish's best album by Sonic Seducer and has been album of the month by Dutch metal magazine Aardschok Magazine.",
+    	"img": "http://localhost:5000/static/img/7.jpg",
+    	"genre": "Symphonic Metal",
+		"media_type": "CD"
+    }, {
+    	"artist_name": "Pink Floyd",
+    	"album_name": "Another Brick in The Wall",
+    	"date_of_release": "1979",
+		"description": "Another Brick in The Wall is the title of three songs set to variations of the same basic theme, on Pink Floyds 1979 rock opera, The Wall, subtitled Part 1 (working title Reminiscing), Part 2 (working title Education), and Part 3 (working title Drugs). All parts were written by Pink Floyds lead vocalist and bassist, Roger Waters. Part II is a protest song against rigid schooling in general and boarding schools in the UK in particular. It was also released as a single and provided the bands only number-one hit in the United Kingdom, the United States, West Germany and many other countries. In addition, in the US, along with the tracks, Run Like Hell, and Dont Leave Me Now, Another Brick in the Wall reached number fifty-seven on the disco chart. In the UK, it was Pink Floyds first single since 1968s Point Me at the Sky; the song was also the final number-one single of the 197s. For Part II, Pink Floyd received a Grammy nomination for Best Performance by a Rock Duo or Group and lost to Bob Segers Against the Wind. In addition, Part II was number 375 on Rolling Stones list of The 500 Greatest Songs of All Time. The single sold over 4 million copies worldwide. The single, as well as the album The Wall, were banned in South Africa in 1980 after the song was adopted by supporters of a nationwide school boycott protesting racial inequities in education under the apartheid regime.",
+    	"img": "http://localhost:5000/static/img/12.jpg",
+    	"genre": "Hard Rock",
+		"media_type": "Vinyl"
+    }, {
+    	"artist_name": "Within Temptation",
+    	"album_name": "Stand My Ground",
+    	"date_of_release": "2004",
+		"description": "Stand My Ground is the first single from Dutch symphonic metal/rock band Within Temptation's The Silent Force. The song is also included on the U.S. edition of the band's 2007 album The Heart of Everything. It became a top 10 hit in three countries (the Netherlands, Belgium and Finland) and became a top 40 hit in four other countries. It was also used in the trailer for the film Blood and Chocolate. Along with their earlier singles Ice Queen and Mother Earth, Stand My Ground has become one of the bands signature songs and is performed on their set of almost every concert since its release.",
+    	"img": "http://localhost:5000/static/img/b2.jpg",
+    	"genre": "Symphonic Metal",
+		"media_type": "DVD"
+    }, {
+    	"artist_name": "Within Temptation",
+    	"album_name": "The Heart of Everything",
+    	"date_of_release": "2007",
+		"description": "The Heart of Everything is the fourth studio album by Dutch symphonic metal band Within Temptation, released by GUN Records on March 12, 2007 in Europe. It was released in North America on June 18, 2007 by Roadrunner Records. As the album main focus on important matters of human life and the choices between them, the band decided to represent it by referencing to Lady Justice on the cover, as a form of allusion to the weight of choices people make. The artwork was done by Dutch artist Erwin Olaf.",
+    	"img": "http://localhost:5000/static/img/b3.jpg",
+    	"genre": "Symphonic Metal",
+		"media_type": "CD"
+    }]

@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% block body %}
+   
+<div class="container">
+
+            <div class="row">
+                <div class="col-lg-8 col-sm-8 col-md-8">
+   
+   <br/>
+   <br/>
+   <br/>
+   <h3>Add to Database</h3>
+   
+   <br/>
+    {% if 'username' in session %}
+	
+
+        		<div class="col-lg-10">
+			<div class="well">
+		
+			 <form action="{{url_for('music')}}"  method="post" id="music-form" class="login_input">
+                
+    
+			<h4>Enter details</h4><br/>
+        <div class="control-group">
+       <input class="span3" type="text" placeholder="Album title" name="name" value=""/> </div>
+        <br/>
+
+         <div class="control-group">      
+       <input class="span3" type="text" placeholder="Artist" name="artist" value="" /></div>
+	   </br>
+	   
+	   <div class="control-group">      
+       <input type="text" placeholder="Media type" name="media_type" value="" class="span3" />
+       </div>
+	   </br>
+	   
+	    <div class="control-group">      
+       <input type="text" placeholder="Genre" name="genre" value="" class="span3" /> </div>
+        <br/>
+      
+	   
+	    <div class="control-group">      
+       <input type="text" placeholder="Release year" name="year_release" value="" class="span3" /></div>
+        <br/>
+       
+	   
+	   <div class="control-group">      
+       <input type="text" placeholder="Description" name="description" value="" class="span3" /></div>
+
+	   <br/>
+        <div class="controls">
+      
+			  <button type="submit" class="btn btn-danger">Submit</button>
+        </div>
+        
+    </form>
+		</div>
+		</div>
+		
+		
+    {% endif %}
+{% endblock %}
+
+
+
